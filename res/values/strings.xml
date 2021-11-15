@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Plant Shop</string>
+    <string name="search">Search</string>
+    <string name="indoors">Indoors</string>
+    <string name="succulent">Succulent</string>
+    <string name="pots">Pots</string>
+    <string name="popular">Popular</string>
+    <string name="image_pelargonium">Image-pelargonium</string>
+    <string name="icon_magnifier">Icon-magnifier</string>
+    <string name="icon_cart">Icon-cart</string>
+    <string name="image_cactus">Image-cactus</string>
+    <string name="icon_heart_dendrobium">Icon-heart-dendrobium</string>
+    <string name="icon_plus_dendrobium">Icon-plus-dendrobium</string>
+    <string name="image_dendrobium">Image-dendrobium</string>
+    <string name="icon_heart_anthurium">Icon-heart-anthurium</string>
+    <string name="icon_plus_anthurium">Icon-plus-anthurium</string>
+    <string name="image_anthurium">Image-anthurium</string>
+    <string name="icon_heart_hyacinth">Icon-heart-hyacinth</string>
+    <string name="icon_plus_hyacinth">Icon-plus-hyacinth</string>
+    <string name="image_hyacinth">Image-hyacinth</string>
+    <string name="icon_plus_pelargonium">Icon-plus-pelargium</string>
+    <string name="icon_heart_aloe">Icon-heart-aloe</string>
+    <string name="icon_heart_pelargonium">Icon-heart-pelargonium</string>
+    <string name="text_pelargonium">Pelargonium</string>
+    <string name="icon_heart_cactus">Icon-heart-cactus</string>
+    <string name="icon_plus_cactus">Icon-plus-cactus</string>
+    <string name="text_cactus">Cactus</string>
+    <string name="text_aloe">Aloe</string>
+    <string name="text_dendrobium">Dendrobium</string>
+    <string name="text_anthurium">Anthurium</string>
+    <string name="text_hyacinth">Hyacinth</string>
+    <string name="Pelargonium_price">$12.82</string>
+    <string name="Cactus_price">$15.99</string>
+    <string name="Aloe_price">$9.45</string>
+    <string name="Dendrobium_price">$13.22</string>
+    <string name="Anthurium_price">$18.23</string>
+    <string name="Hyacinth_price">$20.99</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="about_pelargonium">Pelargonium is a plant of the geranium family. The main active substances of pelargonium are phenolic compounds: coumarins, flavonoids and phenolic acids.</string>
+    <string name="text_buy">Buy</string>
+    <string name="about_cactus">Cacti are peculiar thorny plants that have adapted to life in arid deserts, on the marginal plateaus of southern countries</string>
+    <string name="image_aloe">aloe</string>
+    <string name="about_aloe">Aloe is tree-like. Shrub up to 3 m tall. It is used in medicine. Most often, this particular species is called an agave.</string>
+    <string name="about_dendrobium">Dendrobium noble, or nobile (Dendrobium nobile) originally from the tropical countries of South Asia, in nature leads an epiphytic lifestyle.</string>
+    <string name="about_anthurium">Anthurium andreanum is a large plant with large, heart-shaped, dark green leaves on long petioles.</string>
+    <string name="about_hyacinth">Hyacinths provide stunning spring displays of fragrant blooms both in the garden and containers.</string>
+
+</resources>

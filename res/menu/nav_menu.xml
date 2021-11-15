@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home">
+    </item>
+    <item
+        android:id="@+id/nav_liked"
+        android:icon="@drawable/ic_heart_filled"
+        android:title="Liked">
+    </item>
+    <item
+        android:id="@+id/nav_saved"
+        android:icon="@drawable/ic_saved"
+        android:title="Saved">
+    </item>
+    <item
+        android:id="@+id/nav_aboutUs"
+        android:icon="@drawable/ic_about_us"
+        android:title="About Us">
+    </item>
+</menu>
